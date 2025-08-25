@@ -1,0 +1,55 @@
+#header{
+    text-align: center;
+    font-weight: bold;
+    color: teal;
+    width:1000px;
+    margin: auto;
+    padding: 20px;
+    border:5px solid;
+}
+#main-content{
+    color: green;
+    font-weight:light;
+    text-align: left;
+    margin:auto;
+    width:800px;
+    padding:25px;
+}
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    color: black;
+}
+.intro{
+    color:darkolivegreen;
+    text-align: left;
+    font-size: 18px;
+    font-style: times new roman;
+}
+.section-text{
+    color:darkblue;
+    font-size: 18px;
+    font-style: times new roman;
+}
+.section-text{
+    color: black;
+    font-size: 18px;
+    font-style: times new roman;
+}
+h2 {
+    text-decoration: underline;
+}
+.footer{
+    text-align: center;
+    margin:auto;
+    padding:20px;
+    border:5px solid black;
+}
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    background-color: lightslategrey;
+}
